@@ -10,7 +10,7 @@ Updated by Alpaca, PKU EECS, 2020 Fall. Concerning:
 
 Any useful additions and corrections are warmly welcomed.
 
-The administrator tend to fulfill his homework task in Notepad Version or Scan Version. Latex or Markdown are also used.
+The administrator tend to fulfill his homework task in Notepad Version or Scan Version. Latex and Markdown are also used.
 
 Please feel free to contact us for any questions, thank you! Email: 1800012784@pku.edu.cn
 
