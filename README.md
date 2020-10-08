@@ -12,6 +12,6 @@ Any useful additions and corrections are warmly welcomed.
 
 The administrators tend to fulfill their homework task in Notepad Version or Scan Version. Latex and Markdown are also used.
 
-Please feel free to contact us for any questions, thank you! Email: 1800012784@pku.edu.cn
+Please feel free to contact us for any questions, thank you! Email: liu-peng@pku.edu.cn
 
 All rights reserved.
